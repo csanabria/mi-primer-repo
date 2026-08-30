@@ -2,11 +2,12 @@
 Training inicial en Github de QAxpert Agosto 2026
 
 
-## Comandos usados
+# Comandos usados
 - Para instalar Git
 winget install --id Git.Git -e --source winget
 git clone https://github.com/csanabria/mi-primer-repo.git
-Resultado:
+
+#Resultado:
 Cloning into 'mi-primer-repo'...
 remote: Enumerating objects: 6, done.
 remote: Counting objects: 100% (6/6), done.
